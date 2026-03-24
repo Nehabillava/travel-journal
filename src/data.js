@@ -30,5 +30,16 @@ export default[
         description : "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.", 
         coverImage : "geirangerfjord.jpeg",
         googleMapsUrl : "https://www.google.com/maps?sca_esv=48f9eb906dc6285d&rlz=1C1AVFC_enIN1089IN1090&output=search&q=geirangerfjord&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3p-ML-906rRL_m6h4jR-tdAeyw6pOVABma0FfM0NmtARU-sbOiA6RT8n2OeXe8EcatveeTwc5I2JWuisscNVKSlt-IK5X1RBk2tMd40mg9JaYZsaeG67D-XoxadTtil-jqYH2qUfJ4gN6jm7l37gOG9N4EXCQDvM_kAVyEO4SPvVEGM0pw&entry=mc&ved=1t:200715&ictx=111"
+    },
+
+    {
+        id : 4,
+        title : "Maravanthe Beach",
+        location : "India",
+        startDate : "01 Jan, 2026",
+        endDate : "31 Dec, 2026",
+        description : "Maravanthe Beach, located in Udupi district, Karnataka, is a unique coastal gem where the Arabian Sea and the Souparnika River run parallel, separated only by National Highway 66. Known for its scenic beauty, golden sands, and stunning sunsets, it is a must-visit for road trips and photography, offering serene, uncrowded surroundings",
+        coverImage : "maravanthebeach.jpeg",
+        googleMapsUrl : "https://www.google.com/maps?sca_esv=48f9eb906dc6285d&rlz=1C1AVFC_enIN1089IN1090&output=search&q=maravanthe+beach&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3j2nXl-YQ05KjnWz5SrU93Hw6HNhd9VsZPHORZ1Uwh81Fuvm441nl_CH0tMDmTerUpHNUvhXRuFO3d6Pc7-lGcqSud17diE2ZvLdXNUXMC9kT4Yd2D9AAxhVED2pORMbOHDZrXjo0dW9KsAMvWov-doneYAhrKr-sBaA17byKRhPjwRfTQ&entry=mc&ved=1t:200715&ictx=111"
     }
 ]
